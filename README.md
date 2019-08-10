@@ -1,6 +1,6 @@
 # emaily
 
-Collaborative project in NodeJS/MongoDB/ReactJS with below features
+Collaborative project in NodeJS/MongoDB/ReactJS with below features for new learners who want to jump start MERN stack
 
 # User logins via Google API
 # User purchase credits in order to send feedback email to user
